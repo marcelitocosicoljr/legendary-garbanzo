@@ -1,0 +1,3 @@
+[submodule "logApp-scaling-octo"]
+	path = logApp-scaling-octo
+	url = https://github.com/Ivan0146/logApp-scaling-octo.git
