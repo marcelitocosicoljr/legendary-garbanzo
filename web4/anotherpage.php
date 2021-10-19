@@ -1,6 +1,6 @@
 <?php
-    if(isset($_COOKIE['username'])){
-        echo 'User '. $_COOKIE['username'] . ' is set<br>';
+    if(isset($_COOKIE['auth'])){
+        echo 'User ' . $_COOKIE['username'] . ' is set<br>';
     } else {
         echo 'User is not set';
     }

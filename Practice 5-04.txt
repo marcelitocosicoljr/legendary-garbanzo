@@ -1,0 +1,5 @@
+What function do we use to start a session?
+answer: session_start() function
+
+Where are these session variables stored?
+answer: $_SESSION[variable name] = htmlentities($_POST[input name]);
